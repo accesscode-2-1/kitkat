@@ -9,4 +9,4 @@
 * Joshelyn Vivas
 * Raynaldie Acevedo
 * Vanice Yee
-
+* Luke Lee
