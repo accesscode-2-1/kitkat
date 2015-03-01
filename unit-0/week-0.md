@@ -59,4 +59,4 @@
 ### Next Week
 
 * Next Week’s think piece:
-* Next Week’s team leader:
+* Next Week’s team leader: Hoshiko Oki
