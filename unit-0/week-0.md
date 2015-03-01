@@ -23,7 +23,7 @@
 * What is your goal for next week? : To learn more about coding, learn how to use IntelliJ
 * What do you need help with? (peers sign up to help if they can)
 
-**Ray**
+**Raynaldie Avecedo**
 
 * Last week’s goal : Geting into this program.
 * What went well (what goals did you meet?) : 
