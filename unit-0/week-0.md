@@ -1,8 +1,8 @@
 # Week 0 Pod meeting
 
 * Date: 3/1/2015
-* Attendants:
-* Team Leader: Anthony
+* Attendants: Anthony McBride, Hoshiko Oki, Joshelyn Vivas, Raynaldie Avecedo, Vanice Yee, Luke Lee
+* Team Leader: Anthony McBride
 * Think Piece: Paola + Kevin's talks
 
 ### Retrospective
