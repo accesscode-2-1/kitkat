@@ -56,6 +56,8 @@
 
 ### Extra comments / Anything you want your program managers to know
 
+Vanice wasn't able to attend because she was setting up her computer! But now she's all caught up.
+
 ### Next Week
 
 * Next Week’s think piece:
