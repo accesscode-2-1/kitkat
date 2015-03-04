@@ -3,7 +3,7 @@
 * Date:
 * Attendants:
 * Team Leader:
-* Think Piece:
+* Think Piece: [Optimism, Reg Braithwaite](http://braythwayt.com/homoiconic/2009/05/01/optimism.html)
 
 ### Retrospective
 
