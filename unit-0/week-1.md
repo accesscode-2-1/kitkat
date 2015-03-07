@@ -2,7 +2,7 @@
 
 * Date: 03-07-15
 * Attendants: Hoshiko Oki, Joshelyn Vivas, Vanice Yee, Luke Lee, Ray Acevedo, Anthony McBride
-* Team Leader: Luke Lee
+* Team Leader: Luke Lee (Hoshino Oki wanted to switch with Luke Lee)
 * Think Piece: [Optimism, Reg Braithwaite](http://braythwayt.com/homoiconic/2009/05/01/optimism.html)
 
 ### Retrospective
@@ -65,5 +65,5 @@
 ### Next Week
 
 * Next Week’s think piece:
-* Next Week’s team leader:
+* Next Week’s team leader: Joshelyn Vivas
 
