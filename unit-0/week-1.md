@@ -1,24 +1,25 @@
 # Weekly Pod Meeting Template
 
-* Date:
-* Attendants:
-* Team Leader:
+* Date: 03-07-15
+* Attendants: Hoshiko Oki, Joshelyn Vivas, Vanice Yee, Luke Lee, Ray Acevedo, Anthony McBride
+* Team Leader: Luke Lee
 * Think Piece: [Optimism, Reg Braithwaite](http://braythwayt.com/homoiconic/2009/05/01/optimism.html)
 
 ### Retrospective
 
-**Student 1**
+**Luke Lee**
 
-* This week's medium post:
-* Last week’s goal:
-* What went well (what goals did you meet?)
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?)
-* What is your goal for next week?
+* This week's medium post: https://medium.com/@lukesterlee/git-command-line-error-with-xcode-60f2f4730335
+* https://medium.com/@lukesterlee/ip-what-are-git-and-github-12ffe9ce49df
+* Last week’s goal: learn more about IntelliJ interface and Git.
+* What went well (what goals did you meet?) : I'm now pretty comfortable with IntelliJ interface and Git.
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) : I would like to master Git and GitHub.
+* What is your goal for next week? : Mastering Git and GitHub
 * What do you need help with? (peers sign up to help if they can)
 
-**Student 2**
+**Ray Acevedo**
 
-* This week's medium post:
+* This week's medium post: 
 * Last week’s goal:
 * What went well (what goals did you meet?)
 * What could have gone better (what were some challenges you faced? Did you overcome them? How?)
