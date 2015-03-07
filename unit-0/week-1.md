@@ -27,7 +27,7 @@
 
 **Student 3**
 
-* This week's medium post:
+* This week's medium post: https://medium.com/@Jvvlives2005/access-code-2-1-exploration-1-first-day-and-unit-0-ee792dcda11b
 * Last week’s goal:
 * What went well (what goals did you meet?)
 * What could have gone better (what were some challenges you faced? Did you overcome them? How?)
