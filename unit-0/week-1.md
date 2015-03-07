@@ -35,14 +35,14 @@
 * What is your goal for next week? To practice Terminal (in terms of git push) and Intelli J using the new variables.
 * What do you need help with? (peers sign up to help if they can) I think this is more of my need for time to process everything I am learning.
 
-**Student 4**
+**Hoshiko Oki*
 
-* This week's medium post:
-* Last week’s goal:
-* What went well (what goals did you meet?)
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?)
-* What is your goal for next week?
-* What do you need help with? (peers sign up to help if they can)
+* This week's medium post:  Sorry I will do it tonight and update it with the link. 
+* Last week’s goal:Try to ask questions when I get lost.
+* What went well (what goals did you meet?)  I really enjoyed learning Java and I feel i have a clearer understanding of Git/GitHub thanks to Alex!
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) Writing and reading in English can be a big challenge to me and takes time.  But I have to get used to it so I will take more time to write for Tweeter and Mideum and read Think Piece in the future. 
+* What is your goal for next week?  Learn more about the Java and get used to using Git/GitHub
+* What do you need help with? (peers sign up to help if they can) 
 
 **Vanice Yee**
 
