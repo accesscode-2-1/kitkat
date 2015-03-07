@@ -64,8 +64,8 @@
 
 ### Think piece discussion (team leader has prepared answers and guides discussion)
 
-* What are 2 things you took from this think piece? I'm a pessimist and I need to change the way I process things.
-* How does this think piece relate to access code? If I do not change the way I think I will not be an optimal programer. I will forever doubt myself.
+* What are 2 things you took from this think piece? mindset as a programmer and learn how to take criticism.
+* How does this think piece relate to access code? In this tech industry, working as a team is the most crucial part. Therefore, having these optimistic mindsets will help us to become a better programmer and emotionally professional.
 
 ### TODOs
 
