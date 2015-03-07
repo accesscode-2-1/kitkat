@@ -19,7 +19,7 @@
 
 **Ray Acevedo**
 
-* This week's medium post: https://medium.com/me/stories/public
+* This week's medium post: https://medium.com/@rayacevedo45/access-code-54292472886e
 * Last week’s goal:Get better with git.
 * What went well (what goals did you meet?)I improved some but I still need more practice.
 * What could have gone better (what were some challenges you faced? Did you overcome them? How?)I was complety lost when it came to git but thanks to help from TA's during office hours I'm now only a little lost.
