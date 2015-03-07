@@ -35,7 +35,7 @@
 * What is your goal for next week? To practice Terminal (in terms of git push) and Intelli J using the new variables.
 * What do you need help with? (peers sign up to help if they can) I think this is more of my need for time to process everything I am learning.
 
-**Hoshiko Oki*
+**Hoshiko Oki**
 
 * This week's medium post:  Sorry I will do it tonight and update it with the link. 
 * Last week’s goal:Try to ask questions when I get lost.
