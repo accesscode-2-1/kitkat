@@ -44,14 +44,14 @@
 * What is your goal for next week?
 * What do you need help with? (peers sign up to help if they can)
 
-**Student 5**
+Anthony McBride
 
-* This week's medium post:
-* Last week’s goal:
-* What went well (what goals did you meet?)
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?)
-* What is your goal for next week?
-* What do you need help with? (peers sign up to help if they can)
+* This week's medium post: https://medium.com/@McBride_Anthony/this-is-my-story-1870f39097cc
+* Last week’s goal: Become more comfortable with Git (creating repositories and updating them)
+* What went well (what goals did you meet?) I have definitely become more comfortable with using Git after today's proposed streamlined way of using it for future class projects. Reviewing how to initialize and commit to the remote repository really helped.
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) I have had the most trouble with Git and I believe I overcame some of those troubles today using the aforementioned method.
+* What is your goal for next week? My goal for next week is to come up with my own way of implementing loops logically.
+* What do you need help with? (peers sign up to help if they can) I am sure that I will continue to need practice using Git. As far as materil already covered aside from Git, I feel confident in my understanding.
 
 ### Think piece discussion (team leader has prepared answers and guides discussion)
 
