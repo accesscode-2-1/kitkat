@@ -37,7 +37,7 @@
 
 **Hoshiko Oki**
 
-* This week's medium post:  Sorry I will do it tonight and update it with the link. 
+* This week's medium post:  https://medium.com/@HoshikoOki/git-github-cf702a6e23f1 
 * Last week’s goal:Try to ask questions when I get lost.
 * What went well (what goals did you meet?)  I really enjoyed learning Java and I feel i have a clearer understanding of Git/GitHub thanks to Alex!
 * What could have gone better (what were some challenges you faced? Did you overcome them? How?) Writing and reading in English can be a big challenge to me and takes time.  But I have to get used to it so I will take more time to write for Tweeter and Mideum and read Think Piece in the future. 
