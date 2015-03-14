@@ -54,12 +54,12 @@
 
 ### Think piece discussion (team leader has prepared answers and guides discussion)
 
-* What are 2 things you took from this think piece?
-..*Things to Implement (or take in mind) with Grit: A sub goal needs to be in place in order to achieve the big goal; the issue with developing grit involves the need to fill the gap between context and experience.
-..*Grit needs to be learned by someone (whether in school or outside from it) and you don't need a high IQ to develop grit.
+* What are 2 things you took from this think piece?<br /> 
+-Things to Implement (or take in mind) with Grit: A sub goal needs to be in place in order to achieve the big goal; the issue with developing grit involves the need to fill the gap between context and experience.<br /> 
+-Grit needs to be learned by someone (whether in school or outside from it) and you don't need a high IQ to develop grit.
 
-* How does this think piece relate to access code?
-..*As a programmer, you will come across a negative period where failure is present and you will give up or be frustrated. This talk does discuss this issue where grit provides the motivation or positive outlook to keep going, even if the task is difficult. As future programmers, we have to come to a realization that failure will come, but you will need to get up and be grit in order to tackle the tasks!
+* How does this think piece relate to access code?<br /> 
+As a programmer, you will come across a negative period where failure is present and you will give up or be frustrated. This talk does discuss this issue where grit provides the motivation or positive outlook to keep going, even if the task is difficult. As future programmers, we have to come to a realization that failure will come, but you will need to get up and be grit in order to tackle the tasks!
 
 ### TODOs
 
