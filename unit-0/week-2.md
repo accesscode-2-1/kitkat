@@ -7,7 +7,7 @@
 
 ### Retrospective
 
-**Student 1**
+**Joshelyn Vivas**
 
 * This week's medium post: https://medium.com/@Jvvlives2005/access-code-2-1-exploration-2-the-struggle-of-coding-3a1c9f7ef6cc
 * Last week’s goal:To practice Terminal and IntelliJ (using variables)
@@ -16,7 +16,7 @@
 * What is your goal for next week? To practice with loops and statements (while, for, if, else)
 * What do you need help with? It's more like the need to have more exercise to practice the loops.
 
-**Student 2**
+**Vanice Yee**
 
 * This week's medium post: will be updated soon.
 * Last week’s goal: Getting more formiliar with github.
@@ -25,7 +25,7 @@
 * What is your goal for next week? To fully understand what we have learned. 
 * What do you need help with? (peers sign up to help if they can) for and while  loops, and methods. 
 
-Anthony McBride
+**Anthony McBride**
 
 * This week's medium post: https://medium.com/@McBride_Anthony/that-moment-when-you-finish-the-project-but-can-t-figure-out-how-to-push-it-170ba534a678
 * Last week’s goal: Find a way for me to implement loops logically. (Success!)
@@ -60,6 +60,7 @@ Anthony McBride
 ### TODOs
 
 ### Extra comments / Anything you want your program managers to know
+-Raynaldie Acevedo was absent
 
 ### Next Week
 
