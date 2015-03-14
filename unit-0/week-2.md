@@ -48,7 +48,7 @@ Anthony McBride
 * This week's medium post:https://medium.com/@HoshikoOki/git-cheat-sheet-and-more-923eb7fc4d6e
 * Last week’s goal:Learn more about the Java and get used to using Git/GitHub
 * What went well (what goals did you meet?)I feel a little more confortable with git/gitHub
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?) I couldn't do so much for Roman Calcurator project with my team because it was really hard for me to schedule outside of school and work.
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) I couldn't do so much for Roman  Calculator project with my team because it was really hard for me to schedule outside of school and work.
 * What is your goal for next week? Make more time for studying or finishing homeworks.
 * What do you need help with? (peers sign up to help if they can)
 
