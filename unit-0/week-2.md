@@ -34,13 +34,13 @@
 * What is your goal for next week?
 * What do you need help with? (peers sign up to help if they can)
 
-**Student 4**
+**Luke Lee**
 
-* This week's medium post:
-* Last week’s goal:
-* What went well (what goals did you meet?)
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?)
-* What is your goal for next week?
+* This week's medium post: https://medium.com/@lukesterlee/intellij-how-to-show-line-numbers-all-the-time-1abfab18e406
+* Last week’s goal: Mastering Git and GitHub
+* What went well (what goals did you meet?) I learned about branch and push branch
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) : I'm still trying to figure out about merging and fetching
+* What is your goal for next week? learn about merging, learn more about static
 * What do you need help with? (peers sign up to help if they can)
 
 **Student 5**
