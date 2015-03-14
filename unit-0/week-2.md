@@ -27,7 +27,7 @@
 
 Anthony McBride
 
-* This week's medium post: Grit! (I completely agree with this concept. I have experienced this first hand in previous school settings. The more I wanted to succeed, the better I did. Doing it out of necessity generally did not produce better results than with things I was interested in.)
+* This week's medium post: https://medium.com/@McBride_Anthony/that-moment-when-you-finish-the-project-but-can-t-figure-out-how-to-push-it-170ba534a678
 * Last week’s goal: Find a way for me to implement loops logically. (Success!)
 * What went well (what goals did you meet?) I met last week's goal. I have gotten a little better at using git. I have also completed several projects that I hadn't previously.
 * What could have gone better (what were some challenges you faced? Did you overcome them? How?) I had a major issue with git when trying to push my completed adventure game last night. I eventually decided to create a new directory and copy my game into it so that I could push that to a newly created repo.
