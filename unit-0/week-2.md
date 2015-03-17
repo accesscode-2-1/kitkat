@@ -68,6 +68,6 @@ As a programmer, you will come across a negative period where failure is present
 
 ### Next Week
 
-* Next Week’s think piece:
+* Next Week’s think piece: Think Piece: How I, a designer learned to code and released an app in 4 months
 * Next Week’s team leader: Raynaldie Acevedo
 
