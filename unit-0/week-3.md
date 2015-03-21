@@ -1,9 +1,9 @@
 # Weekly Pod Meeting Template
 
-* Date:
-* Attendants:
-* Team Leader:
-* Think Piece:
+* Date:3/21/2015
+* Attendants:Anthony McBride, Hoshiko Oki, Joshelyn Vivas, Vanice Yee, Luke Lee
+* Team Leader:Ray Acevedo
+* Think Piece:How I, a designer learned to code and released an app in 4 months.
 
 ### Retrospective
 
