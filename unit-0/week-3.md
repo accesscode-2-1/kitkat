@@ -16,7 +16,7 @@
 * What is your goal for next week? Complete homework assingments.
 * What do you need help with? (peers sign up to help if they can)Homework.
 
-**Student 2**
+**Joshelyn Vivas**
 
 * This week's medium post: https://medium.com/@Jvvlives2005/access-code-2-1-exploration-week-3-how-to-import-file-in-intellij-a6fd44bcfdfd
 * Last week’s goal: To practice loops and if statemenets
