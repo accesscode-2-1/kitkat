@@ -43,14 +43,14 @@
 * What is your goal for next week?
 * What do you need help with? (peers sign up to help if they can)
 
-**Student 5**
+Anthony McBride
 
-* This week's medium post:
-* Last week’s goal:
-* What went well (what goals did you meet?)
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?)
-* What is your goal for next week?
-* What do you need help with? (peers sign up to help if they can)
+* This week's medium post: https://medium.com/@McBride_Anthony/on-the-shoulders-of-giants-13100a6bfe7d
+* Last week’s goal: Continue becoming comfortable with Git.
+* What went well (what goals did you meet?) I've definitely come to understand git and git instructions via --help much more clearly now.
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) I still struggle a bit with java documentation as I am not yet comfortable with my knowledge of all of the jargon. 
+* What is your goal for next week? My goal for next week is to study the meanings of common jargon used in java documentation.
+* What do you need help with? (peers sign up to help if they can) Reading java documentation effectively.
 
 ### Think piece discussion (team leader has prepared answers and guides discussion)
 
