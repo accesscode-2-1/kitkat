@@ -52,6 +52,15 @@
 * What is your goal for next week?
 * What do you need help with? (peers sign up to help if they can)
 
+**Hoshiko Oki**
+
+* This week's medium post:https://medium.com/@HoshikoOki/intellij-idea-mac-os-x-keymap-dc3ab313561c
+* Last week’s goal: Finishing the homeworks on time
+* What went well (what goals did you meet?) I finished most of my homework on time since I started ealy.
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?)  I am not sure if I understand method as much as I should.
+* What is your goal for next week? Try to understand "method" more.
+* What do you need help with? (peers sign up to help if they can)
+
 ### Think piece discussion (team leader has prepared answers and guides discussion)
 
 * What are 2 things you took from this think piece?
