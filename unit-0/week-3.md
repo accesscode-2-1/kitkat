@@ -25,14 +25,14 @@
 * What is your goal for next week?
 * What do you need help with? (peers sign up to help if they can)
 
-**Student 3**
+**Vanice Yee**
 
-* This week's medium post:
-* Last week’s goal:
-* What went well (what goals did you meet?)
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?)
-* What is your goal for next week?
-* What do you need help with? (peers sign up to help if they can)
+* This week's medium post: https://medium.com/@theaulait/tech-field-hope-for-the-average-person-88a3f20c3cd
+* Last week’s goal: Better understand programming.
+* What went well (what goals did you meet?) I did not stress out as much. 
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) My understanding of the codes.
+* What is your goal for next week? More improvement than these last 3 weeks.
+* What do you need help with? (peers sign up to help if they can). We have a study meeting in the library to do catch up. 
 
 **Student 4**
 
