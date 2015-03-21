@@ -34,13 +34,13 @@
 * What is your goal for next week? More improvement than these last 3 weeks.
 * What do you need help with? (peers sign up to help if they can). We have a study meeting in the library to do catch up. 
 
-**Student 4**
+**Luke Lee**
 
-* This week's medium post:
-* Last week’s goal:
-* What went well (what goals did you meet?)
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?)
-* What is your goal for next week?
+* This week's medium post: https://medium.com/@lukesterlee
+* Last week’s goal: learn about merging, learn more about static
+* What went well (what goals did you meet?) I learned about static!
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) I still don't know how to merge  
+* What is your goal for next week? mastering merging!
 * What do you need help with? (peers sign up to help if they can)
 
 Anthony McBride
