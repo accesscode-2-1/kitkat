@@ -10,11 +10,11 @@
 **Student 1**
 
 * This week's medium post:
-* Last week’s goal:
-* What went well (what goals did you meet?)
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?)
-* What is your goal for next week?
-* What do you need help with? (peers sign up to help if they can)
+* Last week’s goal:Better understand while loops and if nesting.  Finish my game.
+* What went well (what goals did you meet?)I was able to finish my game, which used a while loop and if statements helping me get a better understanding of both.
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?)I wasn't able to complete the homework assingments.
+* What is your goal for next week? Complete homework assingments.
+* What do you need help with? (peers sign up to help if they can)Homework.
 
 **Student 2**
 
