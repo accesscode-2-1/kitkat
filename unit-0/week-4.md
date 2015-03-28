@@ -54,11 +54,11 @@ Anthony McBride
 
 **Hoshiko Oki**
 
-* This week's medium post:https://medium.com/@HoshikoOki/intellij-idea-mac-os-x-keymap-dc3ab313561c
-* Last week’s goal: Finishing the homeworks on time
-* What went well (what goals did you meet?) I finished most of my homework on time since I started ealy.
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?)  I am not sure if I understand method as much as I should.
-* What is your goal for next week? Try to understand "method" more.
+* This week's medium post:https://medium.com/@HoshikoOki
+* Last week’s goal: Try to understand "method" more.
+* What went well (what goals did you meet?) I think I understand method a little more through class and homeworks.
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?)  Calling method is a little still confusing to me.
+* What is your goal for next week? Learn how to call method in different occasions more comfortably.
 * What do you need help with? (peers sign up to help if they can)
 
 ### Think piece discussion (team leader has prepared answers and guides discussion)
