@@ -1,9 +1,9 @@
 # Weekly Pod Meeting Template
 
-* Date:3/21/2015
-* Attendants:Anthony McBride, Hoshiko Oki, Joshelyn Vivas, Vanice Yee, Luke Lee
-* Team Leader:Ray Acevedo
-* Think Piece:How I, a designer learned to code and released an app in 4 months.
+* Date:3/27/2015
+* Attendants: Hoshiko Oki, Joshelyn Vivas, Vanice Yee, Luke Lee
+* Team Leader:Vanice Yee
+* Think Piece: Kathryn Schulz: On Being Wrong
 
 ### Retrospective
 
@@ -27,12 +27,12 @@
 
 **Vanice Yee**
 
-* This week's medium post: https://medium.com/@theaulait/tech-field-hope-for-the-average-person-88a3f20c3cd
+* This week's medium post: https://medium.com/@theaulait/goodbye-sushi-park-d3fca6b31bdf
 * Last week’s goal: Better understand programming.
 * What went well (what goals did you meet?) I did not stress out as much. 
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?) My understanding of the codes.
-* What is your goal for next week? More improvement than these last 3 weeks.
-* What do you need help with? (peers sign up to help if they can). We have a study meeting in the library to do catch up. 
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) I don't uderstand what codes does after they interact with each other.
+* What is your goal for next week? To better understand ArrayList and Iterator. 
+* What do you need help with? (peers sign up to help if they can). Understanding how the codes interact with each other. 
 
 **Luke Lee**
 
