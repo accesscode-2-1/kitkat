@@ -18,16 +18,12 @@
 
 **Joshelyn Vivas**
 
-* This week's medium post: https://medium.com/@Jvvlives2005/access-code-2-1-exploration-week-3-how-to-import-file-in-intellij-a6fd44bcfdfd
-* Last week’s goal: To practice loops and if statemenets
-* What went well (what goals did you meet?) Understand the structure of them like for the "for" loop, you need to give a start.
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?) SO MANY CHALLENGES! <br />  
-* 1. Still unclear on how to use the loops </br>
-* 2. Do not know when to use them or how to create it from scratch (ARGH!!!) <br /> 
-* 3. There no time in my everyday to even practice or review <br /> 
-* 4. Stressing on the HW!
-* What is your goal for next week? To understand something this week. 
-* What do you need help with? (peers sign up to help if they can) LOOPS!! But I don't know how to word my issue.
+* This week's medium post: https://medium.com/@Jvvlives2005/access-code-2-1-exploration-4-it-s-ok-to-be-wrong-c98e5a259159
+* Last week’s goal: To understand something this week
+* What went well (what goals did you meet?) I understood how to call a method and create methods! I understand a lot more on how to write an if loop how the loops go. 
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?)   TIME!! I need more time to work and understand the loops, functions and method.
+* What is your goal for next week? To learn the terminology when going in java (ex: call a method, establish a variable, give an instance)
+* What do you need help with? (peers sign up to help if they can) It's more of the need for time to review the notes and understand
 
 **Vanice Yee**
 
