@@ -5,8 +5,8 @@
 **Contributors:**
 
 * Anthony McBride
-* Hoshiko Oki
+* Luke Lee
 * Joshelyn Vivas
 * Raynaldie Acevedo
 * Vanice Yee
-* Luke Lee
+* Hoshiko Oki 
