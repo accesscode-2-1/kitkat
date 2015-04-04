@@ -1,9 +1,9 @@
 # Weekly Pod Meeting Template
 
-* Date:3/27/2015
-* Attendants: Hoshiko Oki, Joshelyn Vivas, Vanice Yee, Luke Lee
-* Team Leader:Vanice Yee
-* Think Piece: Kathryn Schulz: On Being Wrong
+* Date:4/4/2015
+* Attendants: Hoshiko Oki, Joshelyn Vivas, Vanice Yee, Luke Lee, Ray Acevedo, Anthony McBride
+* Team Leader:Hoshiko Oki
+* Think Piece:  Amy Cuddy - Your Body Language Shapes Who You Are
 
 ### Retrospective
 
@@ -55,10 +55,10 @@ Anthony McBride
 **Hoshiko Oki**
 
 * This week's medium post:https://medium.com/@HoshikoOki
-* Last week’s goal: Try to understand "method" more.
-* What went well (what goals did you meet?) I think I understand method a little more through class and homeworks.
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?)  Calling method is a little still confusing to me.
-* What is your goal for next week? Learn how to call method in different occasions more comfortably.
+* Last week’s goal: Try to Learn how to call method.
+* What went well (what goals did you meet?) calling method becoming a little more earier than before.
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?)  I did not have time to go through Homework nor some of the exercised in classes.
+* What is your goal for next week? Want to make more time to work on unfinished exercises or projects.
 * What do you need help with? (peers sign up to help if they can)
 
 ### Think piece discussion (team leader has prepared answers and guides discussion)
@@ -73,5 +73,5 @@ Anthony McBride
 ### Next Week
 
 * Next Week’s think piece:
-* Next Week’s team leader:
+* Next Week’s team leader:Anthony McBride
 
