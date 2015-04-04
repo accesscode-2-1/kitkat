@@ -37,10 +37,10 @@
 **Luke Lee**
 
 * This week's medium post: https://medium.com/@lukesterlee
-* Last week’s goal: mastering merging
-* What went well (what goals did you meet?) I couldn't have a chance to learn about it. Instead of that, I learned about autoboxing and unboxing.
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?) I still don't know how to merge  
-* What is your goal for next week? Mastering file class
+* Last week’s goal: Mastering file class
+* What went well (what goals did you meet?) I understand it now.
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) I need to study more for URL and HTML class
+* What is your goal for next week? final project and understanding HTML and URL classes!
 * What do you need help with? (peers sign up to help if they can)
 
 Anthony McBride
