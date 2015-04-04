@@ -18,12 +18,12 @@
 
 **Joshelyn Vivas**
 
-* This week's medium post: https://medium.com/@Jvvlives2005/access-code-2-1-exploration-4-it-s-ok-to-be-wrong-c98e5a259159
-* Last week’s goal: To understand something this week
-* What went well (what goals did you meet?) I understood how to call a method and create methods! I understand a lot more on how to write an if loop how the loops go. 
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?)   TIME!! I need more time to work and understand the loops, functions and method.
-* What is your goal for next week? To learn the terminology when going in java (ex: call a method, establish a variable, give an instance)
-* What do you need help with? (peers sign up to help if they can) It's more of the need for time to review the notes and understand
+* This week's medium post: https://medium.com/@Jvvlives2005/access-code-2-1-exploration-5-signboard-project-demos-759ef855fc85
+* Last week’s goal: To learn the terminology when going in java (ex: call a method, establish a variable, give an instance)
+* What went well (what goals did you meet?) Understood few parts
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?)   TIME as always!! Also some of the problems are confusing due to the misunderstanding of the logic. When people say write/draw it out, it does not work on me at all! 
+* What is your goal for next week? Dunno....try to review the materials to understand how it goes
+* What do you need help with? (peers sign up to help if they can) It's more of the need for time to review the notes and understand the syntax and logic
 
 **Vanice Yee**
 
