@@ -10,11 +10,11 @@
 **Ray Acevedo**
 
 * This week's medium post:
-* Last week’s goal:Complete homework assingments.
-* What went well (what goals did you meet?)I completed all the homework.
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?)
-* What is your goal for next week? Better understand objects, methods, and constructors. 
-* What do you need help with? Objects, methods, and constructor. 
+* Last week’s goal:Better understand objects, methods, and constructors.
+* What went well (what goals did you meet?)I have a better understanding of objects, methods, and constructors.
+* What could have gone better? I have not done this week's HW or my part of the group project.
+* What is your goal for next week? Complete HW, do my part of the group project.  Learn how to use files in Java.
+* What do you need help with? HW, group project, and using files in Java.
 
 **Joshelyn Vivas**
 
