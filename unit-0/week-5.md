@@ -45,12 +45,12 @@
 
 Anthony McBride
 
-* This week's medium post: https://medium.com/@McBride_Anthony/on-the-shoulders-of-giants-13100a6bfe7d
-* Last week’s goal: Continue becoming comfortable with Git.
-* What went well (what goals did you meet?) I've definitely come to understand git and git instructions via --help much more clearly now.
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?) I still struggle a bit with java documentation as I am not yet comfortable with my knowledge of all of the jargon. 
-* What is your goal for next week? My goal for next week is to study the meanings of common jargon used in java documentation.
-* What do you need help with? (peers sign up to help if they can) Reading java documentation effectively.
+* This week's medium post: (to be added at a later date)
+* Last week’s goal: Finish homework and project on time with very, very limited time to do so.
+* What went well (what goals did you meet?) I managed to complete most of my homework. I ran out of time and had to complete the rest this morning.
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) I had an emergency situation with my aunt last week that has persisted to obstruct my ability to progress with classwork and homework.
+* What is your goal for next week? My goal for next week is to take time to review unit-0's material and really make sure that I feel more comfortable with it.
+* What do you need help with? Nested loop logic mostly. Also syntax for calling methods.
 
 **Hoshiko Oki**
 
