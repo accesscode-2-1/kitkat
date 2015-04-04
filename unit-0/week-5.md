@@ -27,12 +27,12 @@
 
 **Vanice Yee**
 
-* This week's medium post: https://medium.com/@theaulait/goodbye-sushi-park-d3fca6b31bdf
+* This week's medium post: https://medium.com/@theaulait/one-plus-one-a-review-fcc546680971
 * Last week’s goal: Better understand programming.
-* What went well (what goals did you meet?) I did not stress out as much. 
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?) I don't uderstand what codes does after they interact with each other.
-* What is your goal for next week? To better understand ArrayList and Iterator. 
-* What do you need help with? (peers sign up to help if they can). Understanding how the codes interact with each other. 
+* What went well (what goals did you meet?) I create more time for studying. 
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) I still need more time to     study.
+* What is your goal for next week? Overcome frustration. 
+* What do you need help with? (peers sign up to help if they can). I need more time to comprend the things we learn. But there's simpling not enough hours in a day. 
 
 **Luke Lee**
 
