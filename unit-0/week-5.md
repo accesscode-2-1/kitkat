@@ -64,7 +64,11 @@ Anthony McBride
 ### Think piece discussion (team leader has prepared answers and guides discussion)
 
 * What are 2 things you took from this think piece?
+We should act we are confident (or at least push ourselves to do something) even if we are not confident enough until we get confident.
+We should keep trying instead of worrying or beign overwhelmed and give up things.  And "power" pause can work because you make an effort to pay attention to your attitude to be positive/powerful.
+
 * How does this think piece relate to access code?
+Some of us thought that we agree to the think piece but some thought it is wrong to fake.  Also some thought if they have to fake, it is hard because they can not show when they do not understand the class materials or exercises.
 
 ### TODOs
 
