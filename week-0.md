@@ -11,11 +11,11 @@
 **Ray Acevedo**
 
 * This week's medium post:
-* Last week’s goal:Complete HW, do my part of the group project.  Learn how to use files in Java.
-* What went well (what goals did you meet?)I completed all my homework.
-* What could have gone better? Better understand how to use files.
-* What is your goal for next week? Do better on Assessment.
-* What do you need help with? 
+* Last week’s goal:Do better on Assessment.
+* What went well (what goals did you meet?)I did better on the assessment.
+* What could have gone better? I missed three questions on the assessment, I would have liked a perfect score.
+* What is your goal for next week? Learn Android studio.
+* What do you need help with? Android studio.
 
 **Joshelyn Vivas**
 
