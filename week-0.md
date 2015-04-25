@@ -19,11 +19,11 @@
 
 **Joshelyn Vivas**
 
-* This week's medium post: https://medium.com/@Jvvlives2005/access-code-2-1-exploration-5-signboard-project-demos-759ef855fc85
-* Last week’s goal: Try to review the materials to understand how it goes
-* What went well (what goals did you meet?) Understood few parts...still working on it
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?)   TIME as always!! Also some of the problems are confusing due to the misunderstanding of the logic. When people say write/draw it out, it does not work on me at all! 
-* What is your goal for next week? Pass the Assessment on Tues!! Study my rear off to understand the loops and advanced stuff 
+* This week's medium post: FORGOT (WILL POST TONIGHT)
+* Last week’s goal: Pass the Assessment on Tues!! Study my rear off to understand the loops and advanced stuff 
+* What went well (what goals did you meet?) I did better than before. YAY! 
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) Still failed it by 3 points, but still happy with the result. I would need to practice more and understand how to tackle the questions 
+* What is your goal for next week? Understand android studio.
 * What do you need help with? (peers sign up to help if they can) It's more of the need for time to review the notes and understand the syntax and logic
 
 **Vanice Yee**
