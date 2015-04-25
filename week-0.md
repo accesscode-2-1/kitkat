@@ -47,11 +47,11 @@
 Anthony McBride
 
 * This week's medium post: (to be added at a later date)
-* Last week’s goal: Take time to review unit-0's material and really make sure that I feel more comfortable with it.
-* What went well (what goals did you meet?) I managed to finish most of the bootcamp exercises.
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?) I would have liked to spend more time on the assignments to have them completed by now.
-* What is your goal for next week? My goal for next week is to continue to strengthen my understanding of the concepts covered in unit-0.
-* What do you need help with? Git as always.
+* Last week’s goal: Do well on the assessment and do some pre-reading for Android development.
+* What went well (what goals did you meet?) I answered all of the questions on the assessment except 1 (which I promptly remembered how to answer in the shower that night).
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) I have not had a chance to complete all of the assignments from the bootcamp. I also need a little help with the java to xml interface.
+* What is your goal for next week? My gosl for next week is to really get comfortable with making java talk to xml in droid studio.
+* What do you need help with? Git and becoming comfortable with Droid studio.
 
 **Hoshiko Oki**
 
