@@ -38,10 +38,10 @@
 **Luke Lee**
 
 * This week's medium post: https://medium.com/@lukesterlee
-* Last week’s goal: final project and understanding HTML and URL classes!
-* What went well (what goals did you meet?) We got a perfect score for the final project!
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?) Alarm clock and music
-* What is your goal for next week? mastering Stripe API
+* Last week’s goal: mastering Stripe API
+* What went well (what goals did you meet?) I understood most of it.
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) 
+* What is your goal for next week? mastering interfaces/generics/inheritance
 * What do you need help with? (peers sign up to help if they can)
 
 Anthony McBride
