@@ -57,7 +57,7 @@ Anthony McBride
 
 * This week's medium post:https://medium.com/@HoshikoOki
 * Last week’s goal: To review all the subjects I did not do well on the test.
-* What went well (what goals did you meet?) I wenth through the exerceises,tutorial videos and class materials and feel a little more confident about some of the subjetcs.
+* What went well (what goals did you meet?) I went through the exercises,tutorial videos and class materials and feel a little more confident about some of the subjetcs.
 * What could have gone better (what were some challenges you faced? Did you overcome them? How?)  I want to go through more exercises to be ready for the next test!
 * What is your goal for next week? To get the good score on the test!
 * What do you need help with? (peers sign up to help if they can)
