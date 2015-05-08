@@ -1,7 +1,7 @@
 
 # Weekly Pod Meeting Template
 
-* Date:4/4/2015
+* Date:4/25/2015
 * Attendants: Hoshiko Oki, Joshelyn Vivas, Vanice Yee, Luke Lee, Ray Acevedo, Anthony McBride
 * Team Leader:Anthony McBride 
 * Think Piece:  [Think Piece](<http://qz.com/382041/the-uss-most-marginalized-are-disrupting-power-structures-by-learning-how-to-code/>)
@@ -19,7 +19,7 @@
 
 **Joshelyn Vivas**
 
-* This week's medium post: FORGOT (WILL POST TONIGHT)
+* This week's medium post: https://medium.com/@Jvvlives2005/access-code-2-1-exploration-6-list-of-what-to-do-before-i-graduate-71ea009ba22
 * Last week’s goal: Pass the Assessment on Tues!! Study my rear off to understand the loops and advanced stuff 
 * What went well (what goals did you meet?) I did better than before. YAY! 
 * What could have gone better (what were some challenges you faced? Did you overcome them? How?) Still failed it by 3 points, but still happy with the result. I would need to practice more and understand how to tackle the questions 
