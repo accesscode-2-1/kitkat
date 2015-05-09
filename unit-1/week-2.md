@@ -38,10 +38,10 @@ I feel the need of hands-on exercises because I would not be able to focus on ta
 **Luke Lee**
 
 * This week's medium post: https://medium.com/@lukesterlee
-* Last week’s goal: mastering Stripe API
-* What went well (what goals did you meet?) I understood most of it.
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?) 
-* What is your goal for next week? mastering interfaces/generics/inheritance
+* Last week’s goal : finishing horoscope app
+* What went well (what goals did you meet?) I put Google AdMob.
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) I still have some bugs.
+* What is your goal for next week? Mastering Horoscope app and making basic calculator
 * What do you need help with? (peers sign up to help if they can)
 
 Anthony McBride
