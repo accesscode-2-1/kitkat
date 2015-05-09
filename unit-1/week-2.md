@@ -46,12 +46,12 @@ I feel the need of hands-on exercises because I would not be able to focus on ta
 
 Anthony McBride
 
-* This week's medium post: (to be added at a later date)
-* Last week’s goal: Do well on the assessment and do some pre-reading for Android development.
-* What went well (what goals did you meet?) I answered all of the questions on the assessment except 1 (which I promptly remembered how to answer in the shower that night).
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?) I have not had a chance to complete all of the assignments from the bootcamp. I also need a little help with the java to xml interface.
-* What is your goal for next week? My gosl for next week is to really get comfortable with making java talk to xml in droid studio.
-* What do you need help with? Git and becoming comfortable with Droid studio.
+* This week's medium post: https://medium.com/@McBride_Anthony/teamwork-makes-the-dream-work-fa4cd9cc774d
+* Last week’s goal: Take more time to read the textbook and other resources to understand activities and the methods associated with them.
+* What went well (what goals did you meet?) I actually got to implement my knowledge of activities in the homework.
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) I feel like I have much more to learn about activities and fragments of activities.
+* What is your goal for next week? Complete the horoscope homework with proper fragment implementations.
+* What do you need help with? Android (in general).
 
 **Hoshiko Oki**
 
