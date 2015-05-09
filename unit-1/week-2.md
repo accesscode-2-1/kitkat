@@ -28,12 +28,12 @@ I feel the need of hands-on exercises because I would not be able to focus on ta
 
 **Vanice Yee**
 
-* This week's medium post: https://medium.com/@theaulait/one-plus-one-a-review-fcc546680971
-* Last week’s goal: Better understand programming.
-* What went well (what goals did you meet?) I create more time for studying. 
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?) I still need more time to     study.
-* What is your goal for next week? Overcome frustration. 
-* What do you need help with? (peers sign up to help if they can). I need more time to comprend the things we learn. But there's simpling not enough hours in a day. 
+* This week's medium post: https://medium.com/@theaulait/women-tech-panel-a-forgotten-self-d27cd4405397
+* Last week’s goal: Understanding android
+* What went well (what goals did you meet?) I created a simple app. 
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) I still don't know how to use the navigation drawer
+* What is your goal for next week? learn the navigation drawer
+* What do you need help with? (peers sign up to help if they can). I need some mini practice example so I can practice writing the codes. 
 
 **Luke Lee**
 
