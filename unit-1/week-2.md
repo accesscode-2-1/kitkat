@@ -10,11 +10,11 @@
 **Ray Acevedo**
 
 * This week's medium post:
-* Last week’s goal:Do better on Assessment.
-* What went well (what goals did you meet?)I did better on the assessment.
-* What could have gone better? I missed three questions on the assessment, I would have liked a perfect score.
-* What is your goal for next week? Learn Android studio.
-* What do you need help with? Android studio.
+* Last week’s goal:Learn Android studio.
+* What went well (what goals did you meet?)I now know how to use android studio.
+* What could have gone better? I wish I could have added more features to my horoscope app.
+* What is your goal for next week? Understand git and github.
+* What do you need help with? Git and github.
 
 **Joshelyn Vivas**
 
