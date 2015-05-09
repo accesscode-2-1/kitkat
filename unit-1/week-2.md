@@ -65,7 +65,7 @@ I feel the need of hands-on exercises because I would not be able to focus on ta
 ### Think piece discussion (team leader has prepared answers and guides discussion)
 
 * What are 2 things you took from this think piece?<br>
--The idea of think more positive and thinking less negative has been repeated during the think pieces, which is great since it will help us program ourselves to do so. 
+-The idea of think more positive and thinking less negative has been repeated during the think pieces, which is great since it will help us program ourselves to do so. <br>
 -The need of more examples how to be more positive
 
 * How does this think piece relate to access code? <br>
