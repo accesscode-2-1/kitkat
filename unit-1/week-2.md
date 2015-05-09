@@ -44,7 +44,7 @@ I feel the need of hands-on exercises because I would not be able to focus on ta
 * What is your goal for next week? Mastering Horoscope app and making basic calculator
 * What do you need help with? (peers sign up to help if they can)
 
-Anthony McBride
+**Anthony McBride**
 
 * This week's medium post: https://medium.com/@McBride_Anthony/teamwork-makes-the-dream-work-fa4cd9cc774d
 * Last week’s goal: Take more time to read the textbook and other resources to understand activities and the methods associated with them.
@@ -64,21 +64,22 @@ Anthony McBride
 
 ### Think piece discussion (team leader has prepared answers and guides discussion)
 
-* What are 2 things you took from this think piece?
-The tech field pays well. It pays especially well for people who show initiative and creativity.
-Tech can be used to make meaningful changes in the world through attempting to solve issues that are important to us and many others.
+* What are 2 things you took from this think piece?<br>
+1. The idea of think more positive and thinking less negative has been repeated during the think pieces, which is great since it will help us program ourselves to do so.
+2. The need of more examples how to be more positive
 
-* How does this think piece relate to access code?
-It shows a very clear example of the type of change that learning to code can bring about in a person's life.
+* How does this think piece relate to access code? <br>
+The article reminds AccessCoders to think more positive about their code and understand that if failed, they can encourage themselves to change it
 
 ### TODOs
 
-Get the whole pod comfortable with the bootcamp material by the assessment next week.
+-Get the whole pod comfortable with the bootcamp material by the assessment next week. <br>
+-Have instructors be more hands on because majority of the students are not understanding the concepts of building an app through reading documentation. 
 
 ### Extra comments / Anything you want your program managers to know
 
 ### Next Week
 
 * Next Week’s think piece:
-* Next Week’s team leader: Luke Lee
+* Next Week’s team leader: Vanice Yee
 
