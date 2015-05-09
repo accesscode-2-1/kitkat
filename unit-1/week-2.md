@@ -65,8 +65,8 @@ I feel the need of hands-on exercises because I would not be able to focus on ta
 ### Think piece discussion (team leader has prepared answers and guides discussion)
 
 * What are 2 things you took from this think piece?<br>
-1. The idea of think more positive and thinking less negative has been repeated during the think pieces, which is great since it will help us program ourselves to do so.
-2. The need of more examples how to be more positive
+-The idea of think more positive and thinking less negative has been repeated during the think pieces, which is great since it will help us program ourselves to do so. <br>
+- The need of more examples how to be more positive
 
 * How does this think piece relate to access code? <br>
 The article reminds AccessCoders to think more positive about their code and understand that if failed, they can encourage themselves to change it
