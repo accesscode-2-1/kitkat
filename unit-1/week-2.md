@@ -3,7 +3,7 @@
 * Date:5/9/2015
 * Attendants: Hoshiko Oki, Joshelyn Vivas, Vanice Yee, Luke Lee, Ray Acevedo, Anthony McBride
 * Team Leader: Joshelyn Vivas 
-* Think Piece:  [Think Piece](<http://braythwayt.com/2015/01/20/learned-helplessness.html>)
+* Think Piece:  [Learned Helplessness](<http://braythwayt.com/2015/01/20/learned-helplessness.html>)
 
 ### Retrospective
 
