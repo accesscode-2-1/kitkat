@@ -18,13 +18,12 @@
 
 **Joshelyn Vivas**
 
-* This week's medium post: https://medium.com/@Jvvlives2005/access-code-2-1-exploration-8-reflection-about-unlearning-helplessness-9668f0658ad6
-* Last week’s goal: Understand AndroidStudio.
-* What went well (what goals did you meet?): Some activities were understanding, like the Grade Coursework.
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?) Majority of the exercise were very confusing because of the lack of instruction during the exercise. 
-I feel the need of hands-on exercises because I would not be able to focus on tackling the answers
-* What is your goal for next week? Complete a full assignment and Finish the Final Project!
-* What do you need help with? (peers sign up to help if they can) Understanding Android Logic
+* This week's medium post: NO MEDIUM
+* Last week’s goal: Complete a full assignment and Finish the Final Project!
+* What went well (what goals did you meet?): Go a cute xml page of our Cutsie Wootsie Calculator
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) TIME. I am about to graduate and the time of the schools hws is not being complete and causing me to lower my grades. Which is scary because I want to graduate with good standards. On the other hand, I like to design the app but its time consuming because i had to look at google.
+* What is your goal for next week? Complete a full assignment and Finish the Final Project! (Again)
+* What do you need help with? (peers sign up to help if they can) Understanding Android libraries
 
 **Vanice Yee**
 
