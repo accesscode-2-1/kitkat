@@ -10,11 +10,11 @@
 **Ray Acevedo**
 
 * This week's medium post:
-* Last week’s goal:Learn Android studio.
-* What went well (what goals did you meet?)I now know how to use android studio.
-* What could have gone better? I wish I could have added more features to my horoscope app.
-* What is your goal for next week? Understand git and github.
-* What do you need help with? Git and github.
+* Last week’s goal:Understand git and github.
+* What went well (what goals did you meet?)I had fun with and added feratures to the horoscope app.
+* What could have gone better? Gotten more work done on Cal app
+* What is your goal for next week? Finish Cal app.
+* What do you need help with? Git and gitpush.
 
 **Joshelyn Vivas**
 
@@ -28,20 +28,20 @@ I feel the need of hands-on exercises because I would not be able to focus on ta
 
 **Vanice Yee**
 
-* This week's medium post: https://medium.com/@theaulait
+* This week's medium post: https://medium.com/@theaulait/women-tech-panel-a-forgotten-self-d27cd4405397
 * Last week’s goal: Understanding android
-* What went well (what goals did you meet?) I created another another app. 
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?) There's a lot more to learn. 
+* What went well (what goals did you meet?) I created a simple app. 
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) I still don't know how to use the navigation drawer
 * What is your goal for next week? learn the navigation drawer
-* What do you need help with? (peers sign up to help if they can). I want to understand how APIs are integrated into android. 
+* What do you need help with? (peers sign up to help if they can). I need some mini practice example so I can practice writing the codes. 
 
 **Luke Lee**
 
 * This week's medium post: https://medium.com/@lukesterlee
-* Last week’s goal : finishing horoscope app
-* What went well (what goals did you meet?) I put Google AdMob.
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?) I still have some bugs.
-* What is your goal for next week? Mastering Horoscope app and making basic calculator
+* Last week’s goal : Mastering Horoscope app and making basic calculator
+* What went well (what goals did you meet?) I made a basic calculator
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) I still have some bugs with horoscope app
+* What is your goal for next week? Make a great scientific calculator
 * What do you need help with? (peers sign up to help if they can)
 
 **Anthony McBride**
