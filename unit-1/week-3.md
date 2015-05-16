@@ -55,11 +55,10 @@ I feel the need of hands-on exercises because I would not be able to focus on ta
 
 **Hoshiko Oki**
 
-* This week's medium post:https://medium.com/@HoshikoOki
 * Last week’s goal: try to finish homeworks on time
-* What went well (what goals did you meet?) I spend as much time as I can to read documentation etc and got a little comfortable to read them than before.
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?)  I tried but I couldn't make app to work.  
-* What is your goal for next week? Keep studying so that I can understand more about android.
+* What went well (what goals did you meet?) I finished the horoscope app work and submit on time.
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?)  Since I was stil working on the horoscope app, i couldn't spend time to do calculator app.  
+* What is your goal for next week? Since calculator app is almost done by my partner, I will try to add extra to the app.
 * What do you need help with? (peers sign up to help if they can)
 
 ### Think piece discussion (team leader has prepared answers and guides discussion)
