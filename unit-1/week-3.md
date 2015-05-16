@@ -46,11 +46,11 @@ I feel the need of hands-on exercises because I would not be able to focus on ta
 
 **Anthony McBride**
 
-* This week's medium post: https://medium.com/@McBride_Anthony/teamwork-makes-the-dream-work-fa4cd9cc774d
-* Last week’s goal: Take more time to read the textbook and other resources to understand activities and the methods associated with them.
-* What went well (what goals did you meet?) I actually got to implement my knowledge of activities in the homework.
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?) I feel like I have much more to learn about activities and fragments of activities.
-* What is your goal for next week? Complete the horoscope homework with proper fragment implementations.
+* This week's medium post: n/a
+* Last week’s goal: Complete horoscope homework with fragment implementation.
+* What went well (what goals did you meet?) I did not get to finish everything that I wanted to, but I did implement fragment.
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) I still have major time management issues due to an excessively demanding job schedule and an unstable home situation.
+* What is your goal for next week? Complete the horoscope homework with proper fragment implementations (once again) and finish my parse function for the scientific calculator.
 * What do you need help with? Android (in general).
 
 **Hoshiko Oki**
