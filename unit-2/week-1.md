@@ -14,20 +14,22 @@
 
 ####1. Did you meet your weekly goals?
 
-Yes / No [UPDATE THIS]
+* Submit all the homework on time : YES
+* Master all the material covered this week : NO
+
 
 ####2. If not, which ones didn't you meet and why?
 
-[UPDATE THIS]
+
 
 ####3. What will you do as a team to make sure you meet your goals next week?
 
-[UPDATE THIS]
+We created our kitkat channel on Slack in order to communicate throughout the week and make sure we complete our homework on time.
 
 ### Next Week
 
-* Next Week’s team leader: [UPDATE THIS]
+* Next Week’s team leader: Joshelyn Vivas
 * Next Week's pod goals:
-  1. [UPDATE THIS]
-  2. [UPDATE THIS]
-  3. [UPDATE THIS]
+  1. Complete (not just submit) all the homework on time
+  2. Master all the material covered this week
+  3. Engineering Pod Workshop on June 7th at 6:15PM : subject is TBD (possible : json, saving, tree thing,,,)
