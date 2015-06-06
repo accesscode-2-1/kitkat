@@ -1,8 +1,8 @@
 # Weekly Pod Meeting Template
 
-* Date: [UPDATE THIS]
-* Attendants: [UPDATE THIS]
-* Team Leader: [UPDATE THIS]
+* Date: 2015.06.06
+* Attendants: Luke Lee, Vanice Yee, Joshelyn Vivas, Hoshiko Oki, Ray Acevedo
+* Team Leader: Luke Lee
 
 ### This Week's Goals
 
