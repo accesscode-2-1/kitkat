@@ -24,3 +24,4 @@ Next Week’s team leader: Joshelyn Vivas<br>
 Next Week's pod goals: Submit all homework on time (correctly). Attend at least one review session during the week<br> during office hours.<br>
 "Master" all the material covered this week.<br>
 Engineering Pod Workshop on June 14th at 6:15PM : Subject - JSON parsing, Picasso Library, Custom Array Adapter.<br> Alternate plan: Help with homework.<br>
+
