@@ -26,6 +26,6 @@ We will meet during the week during office hours or google hangout to review wit
 
 Next Week<br>
 Next Week’s team leader: Ray <br>
-Next Week's pod goals: Luke will help with custom adapter and assist with helping use Google API. <br>
+Next Week's pod goals: Luke will help with Threading, ASYNC Task, custom adapter and assist with helping use Google API. <br>
 
 Alternate plan: Help with homework.<br>
