@@ -1,7 +1,7 @@
 
 Date: 2015.06.27<br>
 Attendants: Luke Lee, Vanice Yee (not present), Joshelyn Vivas, Anthony McBride, Ray Acevedo, Hoshiko Oki<br>
-Team Leader: Joshelyn Vivas <br>
+Team Leader: Ray <br>
 
 This Week's Goals:<br>
 Finish are individual features by Sunday.<br>
