@@ -1,6 +1,8 @@
-Date: 2015.07.11
-Attendants: Luke Lee, Vanice Yee , Joshelyn Vivas, Anthony McBride, Ray Acevedo, Hoshiko Oki
-Team Leader: Vanice
+*Date: 2015.07.11
+
+*Attendants: Luke Lee, Vanice Yee , Joshelyn Vivas, Anthony McBride, Ray Acevedo, Hoshiko Oki
+
+*Team Leader: Vanice
 
 ### This Week's Goals
 Understand Preference.
