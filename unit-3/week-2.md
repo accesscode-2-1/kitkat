@@ -2,29 +2,31 @@
 * Attendants: Luke Lee, Vanice Yee , Joshelyn Vivas, Anthony McBride (absent), Ray Acevedo, Hoshiko Oki
 * Team Leader: Joshelyn Vivas
 
-### This Week's Goals
+### Last Week's Goals
 Understanding SQL Lite
 
-* **Additional Goal(s) set by the pod** [UPDATE THIS]
+### This Week's Goals
+Preparing for Hackathon
+
+* **Additional Goal(s) set by the pod** 
+Provide help and support for Anthony M for the days that he missed 
 
 ### Weekly Retrospective
 
 ####1. Did you meet your weekly goals?
 
-Yes / No [UPDATE THIS]
+Some of us understood SQL, but still need to work on it
 
 ####2. If not, which ones didn't you meet and why?
-
-[UPDATE THIS]
+Sort of comprehend SQL 
 
 ####3. What will you do as a team to make sure you meet your goals next week?
-
-[UPDATE THIS]
+We will all be working seperately
 
 ### Next Week
 
-* Next Week’s team leader: [UPDATE THIS]
+* Next Week’s team leader: Vanice 
 * Next Week's pod goals:
-  1. [UPDATE THIS]
-  2. [UPDATE THIS]
-  3. [UPDATE THIS]
+  1. Prepare for Hackathon
+  2. Think about which area to work on for Hackathon
+ 
